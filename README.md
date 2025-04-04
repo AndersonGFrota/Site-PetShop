@@ -1,30 +1,35 @@
-Pagina de Prestador de servico PetShop
+# 🐾 Página de Prestador de Serviço – PetShop
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/AndersonGFrota/converso-de-moedas/blob/main/LICENSE) 
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/AndersonGFrota/Site-PetShop/blob/main/LICENSE)
+[![Author](https://img.shields.io/badge/Autor-Anderson%20Frota-lightgrey)](https://www.linkedin.com/in/andersongfrota)
 
-# Sobre o projeto
+## 📄 Sobre o projeto
 
-Pagina de contato é uma aplicação web e mobile construída durante a trilha Start na Programação 🤘 da OneBitCode..
+Este projeto foi desenvolvido durante a trilha **Start na Programação 🤘 da OneBitCode**.
 
-A aplicação consiste numa página onde o cliente pode ver os serviços disponíveis pelo prestador e também pode ser feito o seu agendamento prévio.
+Trata-se de uma **landing page** para um **prestador de serviços PetShop**, com apresentação de serviços oferecidos e botão para agendamento de atendimento.
 
+A interface foi pensada para ser simples, clara e responsiva, garantindo boa experiência em dispositivos móveis e desktop.
 
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/AndersonGFrota/Site-PetShop/blob/main/imagem/Site%20PetLife.png)
+---
 
-# Tecnologias utilizadas
+## 🖼️ Visual do projeto
 
-## Front end
-- Html
-- Css
- 
+![Mockup](https://github.com/AndersonGFrota/Site-PetShop/blob/main/imagem/Site%20PetLife.png)
 
- 
+---
 
+## 🚀 Tecnologias utilizadas
 
+- HTML5  
+- CSS3  
 
-# Autor
+---
 
-Anderson frota Goncalves
+## 👨‍💻 Autor
 
-https://www.linkedin.com/in/anderson-frota-0016482aa/
+Desenvolvido por **Anderson Frota Gonçalves**  
+[LinkedIn](https://www.linkedin.com/in/andersongfrota)  
+[GitHub](https://github.com/AndersonGFrota)
+
+---
